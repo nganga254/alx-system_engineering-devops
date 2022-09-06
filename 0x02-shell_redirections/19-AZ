@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -i 's/A/Z/g' | sed -i 's/z/e/g'
+read var | sed -i 's/c//g' |sed -i 's/C//g'
