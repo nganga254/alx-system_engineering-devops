@@ -11,8 +11,6 @@
 
 int main(void)
 {
-	putchar(print_alphabet());
-	putchar('\n');
-
+	print_alphabet();
 	return(0);
 }
